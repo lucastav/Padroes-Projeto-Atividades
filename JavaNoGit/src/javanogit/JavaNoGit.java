@@ -27,6 +27,8 @@ public class JavaNoGit {
         int num2 = 5;
         System.out.println("Resultado da Soma = " + (num1+num2));
         
+        System.out.println("COM COMMIT DE CALCULO DE SOMA");
+        
     }
     
 }
